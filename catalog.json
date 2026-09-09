@@ -1,5 +1,20 @@
 {
     "schemaVersion": 1,
-    "authors": [],
+    "authors": [
+        {
+            "id": "Optimus",
+            "name": "Optimus",
+            "avatarPath": null,
+            "profileUrl": null,
+            "publicKeys": [
+                {
+                    "pem": "-----BEGIN PUBLIC KEY-----\nMIIBojANBgkqhkiG9w0BAQEFAAOCAY8AMIIBigKCAYEAtZtsip8LzGJ+B6OGVS1B\nS5SmQBw2bszM4qpWMsArElFerh31aSDYAe0mMYPBwMxaHGxlaZli+3wUuBcJ0Jo5\nLlmkrIw98soq3yP38bYhx5Er4QN++XZ3PPUWGWrG3c1NvVOMZdpehU3ApqKiHYDW\nBEk6TDTStpadm4MIBMaVyw7AO0ylU9Mi+YfwRtY6+iq9QWnK8NsdVB4fO9Gv1LOu\nj8Nlzk5pVjYw9J6WfrajsboXSkb7+TUttWLT8mcovwHiXaxpiqYqwJLRC6WsNoon\nRCCsHjmAVH4l/Q9Yu67pojFNtJlmrv3UFfO352VsaCUPNyAqq0lWT4vHIv7j6BT3\n9dnUcMmQc/04QCTaqLVw0IZg8ZW9QtQOGOC5aR0j3uNX8KGo6tLVzhHud1KkpcMT\nmmvHej1EaKjodPbSFgDli6F+oRcKIx+ZApMfQmMA2Sl3L0yy/FvwRNY/gRWuJ7xH\nWbETFRF5uSTluxNnda6skOtmjdCEFtVUtNORRtwML3NVAgMBAAE=\n-----END PUBLIC KEY-----\n",
+                    "label": "2026-09",
+                    "addedAt": "2026-09-10",
+                    "status": "active"
+                }
+            ]
+        }
+    ],
     "mods": []
 }
