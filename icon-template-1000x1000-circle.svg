@@ -1,0 +1,32 @@
+<!--
+  Borg.Box mod icon template
+  ==========================
+  Every mod icon shown in Borg.Box is auto-fit into a circular node on the
+  assembly tree: the app takes your SVG's own bounding box, scales/centers it
+  so it fills a circle of radius 450 inside a 1000x1000 viewBox, and keeps
+  your original colors (no forced fill).
+
+  How to use this template:
+   1. Replace the shapes inside the "your artwork here" group below with
+      your own icon artwork. Keep it roughly square/centered - anything you
+      draw will be auto-scaled to fit, but a design that already reads well
+      inside a circle (no important detail in the far corners) looks best.
+   2. Delete the dashed guide circle and the "your artwork here" label -
+      they're guides only, not part of the icon.
+   3. Save as plain SVG and load it in the assembly module's icon field (or
+      pass it to the same bbox-fit step used by every mod already in this
+      catalog.json).
+
+  You do not have to match the 1000x1000/radius-450 numbers exactly - the
+  app re-fits any SVG regardless of its own viewBox - but designing inside
+  this guide circle from the start avoids surprises (thin/pointy details
+  landing right at the crop edge).
+-->
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="1000" viewBox="0 0 1000 1000">
+  <circle cx="500" cy="500" r="450" fill="none" stroke="#888888" stroke-width="4" stroke-dasharray="16 12"/>
+
+  <g id="your-artwork-here">
+    <circle cx="500" cy="500" r="300" fill="none" stroke="#bbbbbb" stroke-width="2"/>
+    <text x="500" y="500" text-anchor="middle" dominant-baseline="middle" font-family="sans-serif" font-size="42" fill="#999999">your artwork here</text>
+  </g>
+</svg>
