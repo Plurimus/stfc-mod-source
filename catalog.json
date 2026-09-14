@@ -730,8 +730,8 @@
                 }
             },
             "archive": "https://raw.githubusercontent.com/Plurimus/stfc-mod-source/refs/heads/main/Optimus%20mods/Optimus.STFC.Cybertron/Optimus.STFC.Cybertron-2.3.0.mod",
-            "sha256": "92cdde55dc6a389a04bf35eac427ecdac33b456f531f845fa1b9346ee4997b49",
-            "signature": "WpiLDrNiNzSikzFsaPodmCbd7a/ZFY9y3kkOtuZjgyItF5m49DcZ6RLEKMtghPS4sQsoV3gBfixuC/9eDcZULR2nt03iKrU1qokjJwG9UMFsgFiW6xbRj4to3ytm4AXsXqlH7bqu9shnyyORN9Qo/mFqbDvJu+nvFdyZXziTKkbwWgI7HB48KFgApf057PL2uzmFJDfo4TE3E3Rpgyu05JjcN7q02f2RI/F6jFTb7ype2zCM+46FPmY5/MANjdCvFPs7oioODQsGS7cx8L2XlvavvGCI9Sjuz2vJlUraIBGVqomqtpSuBoL06hEUX+Y7I53R86UpcB4nz6FcDYN7FPrfI+cm174Yga+ECPZ+GskNcn5JQQykZcHSH3xOu6e/4bbH6Esg7CT1pdcRJ239guFjPguJ4LoSm+QrziYdZctQuYOQu4OuDjvv4d/g8FqObIZVMOq5LAKAC3gBsU/86a9OBbZTQTtwYYZ9bQ1Qqa/BXgDucFRl6CJs+Yv/R/m9",
+            "sha256": "31e2a2716e066df37dbc1d6a40e5ce5d9df57116c7341533b24cd5b789903cf1",
+            "signature": "dlP7Sl64IgkxPb3XqMsAsKuGHJ9UBaND+7l8yMljwpdXuClpLnEGF2IAWosBkL6kV5WTCRQU791HDpJgS4/noJOJNrWOpv29Zkfn9ebl2nOcDxoXhFs6LhZMbOrmGZSWl6uQuZv2gxnke0zV3FH9HZ7I8wUpnVr8LwSN6fRSZ2gCHCk0gZmBxswFhX9Ri1Vcy55xF4HetMJE/AS2mLOH1FGXORfnSfZeMpM7D4j8JoSkh1CCyi+sdKDHRF7/EgeuLmTuz/gEL7saG8jkEWYkDNk0FKgkMltxqvA9Sv5/XjB5YGKrJYYaSSeJyzJDT8JQN0ccEy0Uhg4mo+Pcd8Lc+dEw+/rISRBvUkADIEgO++aRNGlE4Idm3QXQUtxnBn9hP78arWeWrzuB4kRnIGj03msr9pk/gDqb1CFHdW2sSm1kqnrM+di0GqYgzhY/7TWdYNJuufDt2igFvqzbDzEvv/+EWQOxgp17Y/WYjutrXx+F770JWW8lUujSU9iV8BVW",
             "minGameVersion": null
         },
         {
@@ -782,8 +782,8 @@
                 }
             },
             "archive": "https://raw.githubusercontent.com/Plurimus/stfc-mod-source/refs/heads/main/Optimus%20mods/Optimus.STFC.Cybertron/Optimus.STFC.Cybertron-2.3.1.mod",
-            "sha256": "6984a5162809ec49ce0e7f79995c1cef927c3d53937c1812eb7a27ad5af12a7c",
-            "signature": "d85uIu7UsiAA9NJJavJl4CpmfEkaf2anNd7m6UZEtE41Z96XiaQa17MYpH4AH41nwckuGCWgPNiBAOAk4TzgbTLh2RsecX+OVK6F/dh4P88sdXEiZ2OSBCzWVM+WPaqeIYfOr5nUqSBtEP0DdGL2+cDIaD4+M7683jx5sCLd4+3EaCq7JJLkyc0n7YdfQRzqr0X77NdI3wA6bP1MbRwktiR17k/L3F+0w2ZtHGgbdWkcGVf8cauq8/beXkIsYcIf/v87L2lcS5Ob5YFW7+8TDzbzRAcigkks8pT2JKG3VPO7K1DowftwbevJ2dJ1u34y/zNv1q1r9Rb8Xz1BCDFhAN2sHJ28Mr0HRIhvQzrHTYEf+qmkSWUmL5RGsnNxKIIce4BTUWgXLuPpWbmsLohP8KJZOmxLySVpXAfysugajnPfchchJUKvrCMrMi+KgUKVC+Ys4tGiqEuPqyTQKWHJ3ONYte5iQpLZFjanDodz4cg2Va1QtpnPUgSL33m+ImYj",
+            "sha256": "a76438747d01cc26b03e227cbe55c0c25b807bc4dfff98345dd55b57b7aff421",
+            "signature": "CfZuyEQsrSX8dh23JwThURUaeRH2RXrp4313YBsZPXL3OM98EX/+TiN/q0WPS6pMmQXFiHH2TQOm5SEfCqV/G8fY4cOBQWNGZ/e335Nh8gwBQmZJ4JqL87HDIACt+sj/5hZUWmy7XnuIaPTwWcoRy1Z7yRDQbAjBxQt+YQBGSv/ljkLxnxzQ7ScLTjtpKMObm5I2EDGZLpwz/3gSaGebiaV+Kn4cnO5zmGqqtnpbfALWRLXoUC3ZbnuE70b9OjGwTA9iOd9Duyu0hpYEpL2N7KMhaE3MkuEvAfv15IHzZ4TPyStmsVNJkhDT8/zxYFIEtuMDIWgrSEqrNEMopQeNSOUBvBjfZoBDtytYNtQPZawx7Rj06ux6s1/eB0J2DTMS5TbHCwl+uA0j+xYk7R8GuaUryIksSprYSNiAW3EICd/WGUkImAfJwOotnxF62N7B03klgZOBsUkm5ooFudCh0CsM3EaJtQoOBorbdbmX2VFiRcvveKxQW6nPJhbhjkuq",
             "minGameVersion": null
         },
         {
@@ -834,8 +834,8 @@
                 }
             },
             "archive": "https://raw.githubusercontent.com/Plurimus/stfc-mod-source/refs/heads/main/Optimus%20mods/Optimus.STFC.Cybertron/Optimus.STFC.Cybertron-2.3.2.mod",
-            "sha256": "cf3d5cebfafe7fb972f8c432d886de67f60bc69853e7d2f403b2ed4b4464a381",
-            "signature": "JnjGhA5OtU/dCruO83qmYnZFgKXIam60BZiwUArHXx6aVxF6L8RfG/x75ix8k2nnz3J03ajAQtue4C0L46Wn+IryjaVwTQtmgMWIzTQeSqzv3MlvkEShc3YZdfZ64wOCVc53l20Zyve118nl1WJ87ua5B50c4lQhTGxWZQau9Yyo++zpJnhvZ3s7AfjiUjqb0jdQZHSXNcTuHyEZd/Z5qbp1c+6DzoIWtSVkJdRDsUh5jvkpuEvGVJqa04A3SrEyXuXySXdua9Gkwf3zHK1094qCnFpRjLX4rxefSOub+GHkLXpjxks1g8jPtvI7ERL+BYEJopuvpF7s48BrtbhzUpAiIHDdFTADdxLZ3adNNGd9mIuholRHqc8FdvOZcQowHES4yBQZifAHyj2tht5FytFT9GxdZGwgtp0ZvUMRED/OfNkqnf/J2aUoChaAK8ShvD69doPCWm+8WfcWlGS81qH5SBYpFej9mWrkymArOPIHzdcRpiZPFEqqQVj681AT",
+            "sha256": "cf33de726acbb8a3ea4cf593b0187339384c78518308aa45248d4c38de09bca4",
+            "signature": "iCr73ZyfmQ+BsTvDNQIXiBWMZZDUY6UBWmc1vG6+MJKlv3pjDoTefnFr84Y1VQCXixH3mT/VAP9HSMB2Ba+fhW9xwtAU1qBksFca1ptVyRXZS5wEShm/mw5kL5i5fqx8zovGFLAZx68BAX46MDSYNuM3NtGP8+cp05zt0Y8SBeCWStVzFnJKyyTvQz++JbNDYT+yy2p6rVf3Yp7FBQyxYqpeQOJ/k8g6lwGfGiI/Ly2PfdWEF0Pluut7VZE88sZhAW46sujzwdd9N5PRcxBOO9tOpR2VQU89xdGKoukEYbAYLbEEFTX8dQqUjvOkF/UIwImfXUY8jVvlFEKHhKVbS7JtqyxV2jWa146/F4zK1nYrTXOiR6hvU8qVxKIrdJJTGzdNVn3XB6pi5MKa2biAWJs0xFvUAZu9gkZq/CJK51D7b38inswEZ6nO55FqUNutrvtlflrERCQVk8OzjRb4gvy0PY1evVxsyRaItkTQlRtBTu7XKmFE0NcxhkiFqMDM",
             "minGameVersion": null
         },
         {
