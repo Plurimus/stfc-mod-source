@@ -522,8 +522,8 @@
                 }
             },
             "archive": "https://raw.githubusercontent.com/Plurimus/stfc-mod-source/refs/heads/main/Optimus%20mods/Optimus.STFC.Berserker/Optimus.STFC.Berserker-2.1.3.mod",
-            "sha256": "e8b349579d09bbe877f528436d87c86ef5a9bdb130d174f9b4be9697670df273",
-            "signature": "AJ2YDbTRaf07xkm6CICGBambyN2FYCQBT7poRM+Ba9yjb+AwfXVy1pKVJQEqHVA5PI2xn/LMgNvT1vHM6hf2UU3zEVTtonr1aFDrpWsGcnIQApjMqXsdkG9jQd5FQTc6EcvQ+CUHiWKk7LlGyTDjKHUJikceZ3xWnLni/xe2lNVXWF+F0pgBRsIGQt/Pscsqd7TlrSB6vkTzntiMSxa8tnaxHS4fMMbDS9DcpZr1eoD1w47wiKfVbhO6/8kXrVTlpenKp9A+OOTBu7cIiOIYIW4sFKi5wYQzu6Lo6Oek5ufCvspzedzn5C1HAWk2QRpIPSI5Cg5TLleh1M8JutAXXfsU0bxcELZEdjkbgvr6FbkYm/tUZ+gf7XBzFxi75PoyvewBAa/kD0gi3vvXHBBF5wHogLaAzrsyOJmTNiLbqQFcJr4S+lCn4koe8v9v0HoQIJOAFl+IQjCrX+JcpxACnRZ8ciHVnN/SemMh+OTlDgncK7YVVbRYeQxW8fa/Bud8",
+            "sha256": "4aa16d312190df18a53b9dfcdb2915c81d5b4e69f2b3af076fae954be24ea268",
+            "signature": "Xl88DiKkxXFgDuecaKhXH9/2F6JziAVDjt3PDkZ8xaOJPGL2smx9xZX8h1yz61YHLr/UV1GHc+Q/njpsC8fFjpLfRrlSYJeVEaMBMGZNg5JGhRcOtmpgG7UMQUpFcuUUZTgQkcloDfTbJ5YRjA+6O2r4wTscC3GsHlOhUtcWevAWB6h1ASRf58miLTFt+cZPG6bn+EsDyOTjrqv9+LHmA+VlYSuCKvVQ1UNcWmHQ/V2LUlS1EP/i/gnBPqjlh+sfx9/JkuIBQGp4+RKAyAge8vNTNnHtiTfu2YNvrqjr2N8TtdF//owktBY8gc6hKZlkm53mK/JDkEvGxtX5N5nNFUtac4JVx7ljzen2BZWXBUWo1mT1b5sapUSe9BD6RLped9NODInzf8k9enqO7TGO9LVF/T83uuqI9b0IHQansv55JOzw+1hyIEffkRfylbYck1gChkc8JWcnMNS7difEViaRINIhCtdY8DTHqM0wMG5OnKQqXy/pUl1AveUx4teh",
             "minGameVersion": null
         },
         {
@@ -574,8 +574,8 @@
                 }
             },
             "archive": "https://raw.githubusercontent.com/Plurimus/stfc-mod-source/refs/heads/main/Optimus%20mods/Optimus.STFC.Berserker/Optimus.STFC.Berserker-2.1.4.mod",
-            "sha256": "2759bed2130e41df80e3c7c251fab1e80f33e5fdb4459593f998d75ae9f69f76",
-            "signature": "tERRZgq3/P0y+Xvvwvke+RSva5EWIiNS3kb9EogtiUq3PI6XmUUh0ewtZkjEzwgqUtKhYb/iFOMlbHDHu5A097a2jKhcnQmwcbvCG9F7kbG3PgTeFYXiugBkX+Jm+WAD1YRiCecmxKUqbfIQ/l4j75WrnBKLA68pJHfyC7a/jj3joZSAVKwtmTr2XEtBUfrnAkIyE0gtOJL4icZiZMDs6OqDDIqdDy6GDDrKNNeewcfuA1ZzpVvcuCA9aaC3yJ81B+TPNn/NRZ1lLQhdfPPxRuIibgbABo/0O7oPEYm3fxHn2WuZrgNc/YKsCGLCq66YQlPxYmUOPHcy0UKDWyevRgSVyPUQlE8htjC/KpI2AjC2jIlUF594a24OSh7bk+aASPyj6YtiU0vGsynPn31C+Qfb9AcTUlF2ylstNaxcRum/35FFZN/JehRwbQDUNJUA5dTxMQJkM4xNgD952E3oVWSZ/EyecIe7b8cx013zVvpVDpZpm0y1JmwOAtr5mux3",
+            "sha256": "bbcb01942a119f7a48ac0cc56b336b282f00d79d9b8958255b6083312b6be208",
+            "signature": "ssQgSTI8H2l2wjZa+Lp1VlniMfkX4B1Mx18ggCqkn67ZYBhdbsUlNlvagXyEK6xT/kVeqGfFHeX/qIDaUu+tH+05sUNK/cjco9Vj+uy+G1AgtqIIsDv5VjsXjB4wUQSiy6PILpbRQ7Nxnvc1w3W972aJyz8ff305O/wxYmPfQ6acyFHOhcBzM4TdFoHbqNxnGHlpg3avPLO/RdoTEX1PTLrehAhjFy2gXjmrlLHzdubV7YvC9/eKWOoAKsq/jZkNM0zsU9m879Ii7rbAL1RQ2sDKzIfO9wR+0Rx87lc0JuWVf4MjmT02KwvXJi5jQOCaBqeA+dKPTz9sDfElpMY3gvOcbyzwDCRj8qgc+VaqleMZUFsiYbmP2e1Ill4yFhLUzjwwf7/YFk30glSdmxby8SI/0QrVTJFgDOnmOAox/XFV14onWyfPcJg7DoxEVKiZwuapdLsEtDsOkGsi1BJ8pKm2pHwMwe8Sn9lYFMnye2veNQzvUHBoGmjWo2HKmxAr",
             "minGameVersion": null
         },
         {
@@ -626,8 +626,8 @@
                 }
             },
             "archive": "https://raw.githubusercontent.com/Plurimus/stfc-mod-source/refs/heads/main/Optimus%20mods/Optimus.STFC.Miner/Optimus.STFC.Miner-2.0.2.mod",
-            "sha256": "1bed05add8ff80a9db6cf21cbcdbbe949997799ca36572a61cd69aa34a6c744d",
-            "signature": "TagdreEvV8KZ63wgRKIbAZRXdQOKpv0puzrWW2hmS0InTHvwkbop3JS8rby4C6GeVF24TvXrXA1w5HLWQWGWeZwSB6sXSB2m7ToE1+L6BnfGFNsSwCeksR2ZyBYRa0G2gD1v2CfL/gUly6hhFF0Iq4o791g78UyxLNoyFK3eZ2UsxgkOHpUznHHfOURXaeEMB2H0aCrb8uY/m7SGr2ejL/OvaFnEPYAD0J0JhPV00m6nYkgFD/kZFDH4oI+VLVYNye7wHroDy3F0IbMA1ucSkU8zZHe/6C/NmtR5ghBkUhMqijUvH35b1VnNPI6TsaRafXBNXp6ictRh/4F7S15Y7pH/rqaJFEyczAQIXh7JXKUYWtamy+oSUmqcwLw+lfEBfDPbrGKHmNoFDcFEd91GHqpZsQ39UuUcscF4DDYF2lnYjZySiwnZ0TaZ2EIJ7ZekKdMNbvhRgHyuXX2TIoOYYc/DrVt50JqGpZeUv6w+zRzVp/rBkzu3E9ylIHCBtdwr",
+            "sha256": "b670957b01ac7b67ad5d5c4c0299fb87fd8cc302dbfefbdb47abafc316a8f29f",
+            "signature": "PQ/SEhTJAH5XdUI9AQxOvekZg66Q9XEV68kH+JsjdLWLgCB5zYIkK02oFTDlosyBTq7kJ4XZm912tAN6HtE5XaxYhwSsmiUEkG+HTNHgUpCHZ0KB2nP7VOF+B+mYJvyfooPwT9g1kd/WF3uQUuetnX4zMtHrEnLB6CU0mc/K8YWc9Y2v4mBIlUT+fJUoimthTLz6EWdV2JLZEH1pk3LajQXS2Y/EtOV8pVEDpQoy2UQ6PCJiav38VsZvIgxp4EBoR+7bQT4IT3Sn6AXzwJSUXTC//KtrbJ9Zu9kq1lE7h2troe4HWy52S/ap6Fvh/GxBtZ7qTl0CODshSgkBKZoQHvg5KSdw18XQIhkCCsZxUYYc2DC38zrwdjkBuo2wReu1aqGiyENjsoW0vmjM3OxQcWEuiKqwjQ0t4WzyIK5qM1vQa+L6kDQaCd18y776SeErrwtWdY1kTDnuOQXeIwFSN50jmjarQDSi89BgLerTlMZjLc9SLSLRCp9xqa9BfZ3f",
             "minGameVersion": null
         },
         {
@@ -678,8 +678,8 @@
                 }
             },
             "archive": "https://raw.githubusercontent.com/Plurimus/stfc-mod-source/refs/heads/main/Optimus%20mods/Optimus.STFC.Miner/Optimus.STFC.Miner-2.0.3.mod",
-            "sha256": "4e339dd136c63a5a33f0771147a458fd7a4cb76e764c5492072429792315e8a8",
-            "signature": "eF2bt7HhjV/OE7EMLiK7p4aICezejsDYatox7YlVE0f1+CzSMf1jZ3UzbRFWLICiA4ewosv2f9oo9P2b00IXiFWFakhEkWeV24xaMDrspIxhRkRBXM96iXvPCUovE203YemLpNNJYcSSnvAXOC6CoVQETzKJr74xyE9uwfq7HabZSWWKEadDwcWRlkWma2vwiUS/sYWfS/Re6vjtPJhMjGDGcQ9BNtFzw0ISwsYFHNd9e+2hpfqDgDSgPBwLEcjx1mqWCIJCyMkYjr4nroZDmc5ewTtqj0qLsa+13BYWvWqv6PeKFUYECJmlpmNrNGkWxfe0b9vuJwRwHrMHOvhEmkZYL84ehVKlPuTLtvO+z3ZRF9TNq32dp1wEFSLNdByd5T6px98J5Pc724wvqGU4bcPfeAueWbnKrMqaicErWQMXngVgq5qanZwRGk7FWMbYE73wvd48sWAkPUkh+ooySXOPIwoZTvILfn1mwsFVx6+9D9Z+01DGXlCIsEC+4kFs",
+            "sha256": "68e7aa205c2a6fb2770b05ba90b58d39648a86e3db424c6e9aa591e26ecae754",
+            "signature": "CzxHzbyMy5VzyG5CLK3tYGIFvE9xe6Plm8J2LlQfb9iMdHC+5D83dLH6BLKtVm+kBrHAhmeG4LddlOxqABiZER+2xMCOuh9nTNxPnGDuOtLE1nokji5xYDRE8gbzPwtCPXTrOQj2QRuW8+ZFwseUDu52bKdmxYooV/AfbiHgcEzKn5Zj1ITz5uOmuT7sbk1IorzsnZc0RbgTiB6ksmwAIr9qp3Y4IASSqh6Ei1P2lc6NB3ulPYnGInXLYs+WyMBRPwEYuy6SMHTOr/9cX24pPN4r1y4zIDgNms2KeLk1dCM4Z3Yt0gM3O2C0PX06Ew9ov5mVXsJSY/4OXg3t/683vPYtTlJAe+NVNRFczmWKfoegSPR6UEyyWW1J+sTYGHjdKDUNSalqUHldhAHzXVSSKtVYP6b4G//XUPJsFd19R95E7hSiXUu6BpwhpIERPX9QIhnCwxNDLqT7TO7aVQLGbkNp/DcrpOXy3FBFF9N/pc4Eq/gAlklafCA6QNxU1zwH",
             "minGameVersion": null
         }
     ]
