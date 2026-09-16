@@ -6,8 +6,8 @@
 
 ## English
 
-A mod source for STFC Borg.Box. The only required file is `catalog.json` at the root of this
-repository.
+A mod source for STFC [Borg.Box](https://github.com/Plurimus/Borg.Box). The only required file is
+`catalog.json` at the root of this repository.
 
 ### Source link
 
@@ -162,8 +162,8 @@ with your own artwork and remove the guides before using it.
 
 ## Русский
 
-Источник модов для STFC Borg.Box. Единственный обязательный файл — `catalog.json` в корне этого
-репозитория.
+Источник модов для STFC [Borg.Box](https://github.com/Plurimus/Borg.Box). Единственный обязательный
+файл — `catalog.json` в корне этого репозитория.
 
 ### Ссылка на источник
 
