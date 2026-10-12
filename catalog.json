@@ -1236,7 +1236,7 @@
         {
             "id": "Optimus.STFC.Ratchet",
             "name": "Ratchet",
-            "version": "2.0.0",
+            "version": "2.0.1",
             "type": 0,
             "authorId": "Optimus",
             "summary": "Adds a starbase-defense button: while active, automatically repairs the station and any docked ships, and raises a 4-hour peace shield after an attack. Requires BepInExConfigManager (press F5 in-game to edit settings) and Optimus.STFC.API. BepInEx plugin for Star Trek Fleet Command, needs BepInEx bleeding edge build 755 or newer.",
@@ -1280,9 +1280,9 @@
                     "summary": "基地防衛ボタンを追加します。有効な間、基地とドッキング中の艦船を自動修理し、攻撃を受けた後に4時間の平和シールドを展開します。BepInExConfigManager（ゲーム内でF5を押して設定）と Optimus.STFC.API が必要です。Star Trek Fleet Command 用の BepInEx プラグインで、BepInEx bleeding edge ビルド755以降が必要です。"
                 }
             },
-            "archive": "https://raw.githubusercontent.com/Plurimus/stfc-mod-source/refs/heads/main/Optimus%20mods/Optimus.STFC.Ratchet/Optimus.STFC.Ratchet-2.0.0.mod",
-            "sha256": "37e4c307f0685028234df351a864990fab55db959e789b3d1736b6b6acf2998b",
-            "signature": "JfSJsDZPcUfEnqyeMkqcRaM6X0wtYTsUs62VGrCanjTIUexSRHSZ6REuD2INy3XXcNB9O9kJbqutnTDzOU17uBNIWvy1IosGMAzdrD6uKylivt4TAiCi5UH48Zu13lXoDpcuyTvuKkc4V3//rdirAdS4GIV6KLzXFoh8KAkns8aWfjjTtzD7FYoPPCF4ElXx9TzzLTx3nOmcbWAkt8LEiJAovDV/7eQ9yrVI+PLtDemWOpx5pLhHBfz6DCb6OvZA7EEXHx/h94zbDTr03IzLM5GIl7PEayLDs0ORdLcpdj1OKK/KXwU8V/81UNdB5Ww/5kuUtF3vYxKT1a0PqXDzMA/klHVL1C7CE3YIIB3qtzlLZu1yDlB3r7uWWnZJDsmWKfUb2OBniJbKPZugErnatzADklHbfwAzabxEqlE5AFAK3l7PI8Qov8GokCl/BAQjszNOeYOv8Z7Pp/nOysmQDsSZb2c1ZbjPj+m0p8JsukdrZOr6CCqrlnO2DEBFWOv6",
+            "archive": "https://raw.githubusercontent.com/Plurimus/stfc-mod-source/refs/heads/main/Optimus%20mods/Optimus.STFC.Ratchet/Optimus.STFC.Ratchet-2.0.1.mod",
+            "sha256": "7fef5ad2fca4646e5ed231902d3197b93eb80c0958a1bf830f3615f8da67e142",
+            "signature": "pFBacqSGuPBiTOu1K3NDHdWjap42jyCIl02hbcjoD0IiZ3dbGN6mcgAJN1VKUwOdtnywyk2o3GZmROmAwKdCRM7wADJubtYhCOeUwcFQ50NT3iIJce8ysVjTf7OLyQr7vJWnak6Bi651mOW+EhDeb43sOYBpa8DURj1ur61QKNhLeFIu/oS9byG/xMCaW6wm3vtpx3RtpGxMScxWAdIHLlVfBGuvv2gfZYRWXtPuOVlPH39F4ucb44jhV8mebS2Eu829J1ndKtZMx3CP4YgAlX+K1i01luWwYA4tI4xED/ZCFe7YcjDk4Ub+8Z6lgf45w2Nab0v7CzxmL9UnrbnP5OrW3T6Wp4SeO6lJMEp6vPN3HWSc5mdklBjgPxDL+8vFQv3gprl+Zuwu0B+iaV+WGKewieiNUhbPmEdKLoFPwqEhKgYGdMb3GGfHvHv5L1B1J3ILJCD8hIaTj41kFlKBaw1fe/Uuda9jSc1WW9YAgEKUKtbMZREDR/XNI/tdAHAm",
             "minGameVersion": null
         },
         {
