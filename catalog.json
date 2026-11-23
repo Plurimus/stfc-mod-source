@@ -1816,11 +1816,10 @@
                     "summary": "フリートカードにオートグラインドボタンを追加し、敵を自動的に攻撃・周回します。Optimus.STFC.API と BepInExConfigManager が必要です（ゲーム内で F5 を押して設定を編集）。Star Trek Fleet Command 用の BepInEx プラグインで、BepInEx bleeding edge ビルド 755 以降が必要です。"
                 }
             },
-            "archive": "Optimus.STFC.Berserker-2.3.1.mod",
+            "archive": "https://raw.githubusercontent.com/Plurimus/stfc-mod-source/refs/heads/main/Optimus%20mods/Optimus.STFC.Berserker/Optimus.STFC.Berserker-2.3.1.mod",
             "sha256": "804351b67ba0aec7bec5c5611082c424a1fa1953e7b60ab03d6b5932ec685812",
             "signature": "ec0lXA8p/x3+gTuLRX0zph82RfB+asKjIgbhMIRi9jhtXz+0+dn6eWegYgmBWEMgg/SZsYS0kqAIIefj9OaPOdSNJy3mLDT8gk03eC+VPpaNpCArOps9tdlzBdj8BTL6wGBuqgdC0hHPtVNsuJ2uAhdYqu0uK4SJut63PUuBa4745M7l56YvY+6OqAVX8hEYtaDFPMYwChpndnrQ298ifBlGltbb+ClBM61dA0wrjWR/mwsZcoKD3bDZ/Ky8c+QYgFOAVGMgVq+R9leKPYZoa+QNWxt5yDFUUa4ZT22od2eguw4NdRWDpixntjW9RP6w/3YJe9OC3IxiB+BmkhNWoOKQ7KJgLc1vRhMiSts3bRdkD1OdhRhjjYxDMZyTzsYlg1Q6YUN8n3zeuaOwz/Pfp2LylP2XOqCTCLMn5q8Ge8rXGHYJaduJhJsLvfg5SpN/tFg0upnDjIsF97XB5u5ZOvOKaA4lM2hw6PJ8MO8VBMmb6GK4iz6Jf7HwcQKFepuQ",
-            "minGameVersion": null,
-            "noDownload": true
+            "minGameVersion": null
         }
     ]
 }
